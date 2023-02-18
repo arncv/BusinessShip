@@ -11,20 +11,20 @@ Easy integration with the Courier API
 User-friendly interface
 Free service for small businesses
 Installation
-To install Business Ship, simply clone this repository to your local machine:
+#### To install Business Ship, simply clone this repository to your local machine:
 
 
-'git clone https://github.com/your-username/business-ship.git'
+`git clone https://github.com/your-username/business-ship.git`
 Then, navigate to the project directory and install the dependencies:
 
 
-'cd business-ship
-npm install'
+`cd business-ship
+npm install`
 Usage
 To use Business Ship, simply run the following command:
 
 
-'node server.js'
+`node server.js`
 This will start the application and open it in your default web browser. From there, you can sign up as a small business owner or a helper, and start using the service to promote your business or help others do the same.
 
 ## Contributing
